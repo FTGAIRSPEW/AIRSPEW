@@ -7,8 +7,11 @@ Under construction, full content will be populated very soon!
 
 Description of Folders:
 * developed – contains all developed source for the project and file descriptions
-* sample-usb-control-drive  – contains the folder structure and sample content of a control USB drive
+* media - media files captured during development and testing
+* miscfiles - miscellaneous files
 * reference – contains reference documents for main system components
+* sample-usb-control-drive  – contains the folder structure and sample content of a control USB drive
+
 
 Operation Notes:
 * During testing best response was found using DJI's Atti flight mode - this is our recommended flight mode when the modules are attached
