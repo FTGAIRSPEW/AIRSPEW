@@ -12,6 +12,9 @@ For most of the connections between the module components and the drone are comp
 One of the drone’s controller’s channel buttons must be configured to turn on/off the rear LEDs, this will be used as the trigger to active the payloads
 
 All modules use the processing unit; as such it should be mounted first on the drone:
+
 ![FTG AirSpew Logo](/media/pictures/PU-Front.jpg)
+
 ![FTG AirSpew Logo](/media/pictures/PU-LED.jpg)
+
 ![FTG AirSpew Logo](/media/pictures/PU-UpsideDown.jpg)
