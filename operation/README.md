@@ -19,3 +19,11 @@ All modules use the processing unit; as such it should be mounted first on the d
 ![FTG AirSpew Logo](/media/pictures/PU-Front.jpg)
 ![FTG AirSpew Logo](/media/pictures/PU-LED.jpg)
 ![FTG AirSpew Logo](/media/pictures/PU-UpsideDown.jpg)
+
+### Drop Module
+For the drop module attach the tray with the opening towards the front of the drone with 3 plastic ties on each side:
+![FTG AirSpew Logo](/media/pictures/Drop-Side-A.jpg)
+
+Attach the servo’s USB cable to the 4 port USB hub and attach the processing unit’s single servo signal cable (black cable, loose end was inserted into styrofoam block for protection) to the servo’s signal cable (the only populated pin in the servo’s header):
+![FTG AirSpew Logo](/media/pictures/Drop-to-PU.jpg)
+![FTG AirSpew Logo](/media/pictures/Drop_Connection.jpg)
