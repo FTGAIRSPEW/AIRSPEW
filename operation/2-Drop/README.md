@@ -3,7 +3,9 @@
 AirSpew: Modular Information Dissemination System
 
 ## Drop Module
-For the drop module attach the tray with the opening towards the front of the drone with 3 plastic ties on each side:
+Using a computer access the blue USB drive and edit the mode.txt file to indicate drop mode by typing “drop” into the file. Insert the USB drive back into the 4 port USB hub on the drone.
+
+Attach the tray with the opening towards the front of the drone with 3 plastic ties on each side:
 
 ![FTG AirSpew Logo](/media/pictures/Drop-Side-A.jpg)
 
