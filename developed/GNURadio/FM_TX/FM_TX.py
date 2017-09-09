@@ -31,9 +31,9 @@ class FM_TX(gr.top_block):
         self.osmosdr_sink_0.set_sample_rate(4000000)
         self.osmosdr_sink_0.set_center_freq(96100000, 0)
         self.osmosdr_sink_0.set_freq_corr(0, 0)
-        self.osmosdr_sink_0.set_gain(64, 0)
-        self.osmosdr_sink_0.set_if_gain(50, 0)
-        self.osmosdr_sink_0.set_bb_gain(50, 0)
+        self.osmosdr_sink_0.set_gain(16, 0)
+        self.osmosdr_sink_0.set_if_gain(16, 0)
+        self.osmosdr_sink_0.set_bb_gain(16, 0)
         self.osmosdr_sink_0.set_antenna('', 0)
         self.osmosdr_sink_0.set_bandwidth(0, 0)
 
