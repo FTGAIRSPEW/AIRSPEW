@@ -10,8 +10,9 @@ date
 # TODO: Future optimization: get status instead of blind sleep
 sleep 20
 
-# Mount the SD card
+# Mount the SD card, try both locations
 mount /dev/sda1 /media/usb/
+mount /dev/sdb1 /media/usb/
 
 # Configure the IO pin
 echo in > /sys/class/gpio/gpio60/direction
